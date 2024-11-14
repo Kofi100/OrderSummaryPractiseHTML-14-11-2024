@@ -42,8 +42,8 @@ Active Mode
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-page-using-htmlcss-29w8mEYDtie](https://www.frontendmentor.io/solutions/order-summary-page-using-htmlcss-29w8mEYDti)
+- Live Site URL: [https://kofi100.github.io/OrderSummaryPractiseHTML-14-11-2024/](https://kofi100.github.io/OrderSummaryPractiseHTML-14-11-2024/)
 
 ## My process
 
